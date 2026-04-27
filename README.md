@@ -31,7 +31,7 @@ The platform helps monitor waste collection, sanitation performance, route plann
 - Firebase  
 - Tailwind CSS  
 - Recharts  
-- Cloud Deployment Ready (GitHub + Cloudflare)
+- Cloud Deployment Ready 
 
 ## Objective
 To build a scalable digital ecosystem that improves sanitation transparency, monitoring efficiency, and sustainable waste management operations.
